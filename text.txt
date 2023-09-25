@@ -1,3 +1,1 @@
-Some text.
-
-Another line of the stuff.
+no text.
