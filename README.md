@@ -51,7 +51,7 @@ Push your changes back to your repo on GitHub.
 
 # Step 5
 
-Create a merge request for the original repo to get your changes in there (on the main branch).
+Create a pull request for the original repo to get your changes in there (on the main branch).
 
 ## If you are part of a group
 
